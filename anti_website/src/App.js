@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <h1>Hello everyone! This is my first app</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Dont edit <code>src/App.js</code> and save to reload.
         </p>
     </div>
   );
